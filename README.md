@@ -1,7 +1,7 @@
 # Hello, I'm Serkan Korkac
 
 ## About Me
-Hello! I'm Serkan, I have a keen interest in computer science and software development.
+Hello! My name is Serkan, I have a great interest in computer science and software development. And I have been dealing with software development for a long time. I currently work as a full stack developer at Contentrain.
 
 ## My Projects
 - [Contentrain](https://contentrain.io)

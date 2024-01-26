@@ -20,9 +20,3 @@ Hello! I'm Serkan, I have a keen interest in computer science and software devel
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/serkankorkac/)
-
-## Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=prs&theme=dark)
-
-## Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)

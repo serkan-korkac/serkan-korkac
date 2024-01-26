@@ -1,6 +1,6 @@
 [
   {
-    "path": "contentrain/static/1706271587539_star-wars-desert-luke-skywalker-orange-wallpaper-preview.jpg",
+    "path": "contentrain/static/banner.jpg",
     "mimetype": "image/jpeg",
     "size": 20483,
     "meta": {
@@ -9,7 +9,8 @@
         "email": "korkacserkan@gmail.com",
         "avatar": "https://lh3.googleusercontent.com/a/AAcHTtc3LCy8WwGQifJk6rwslbWYtRIp44KkR0j9Fn7IMty4_g=s96-c"
       },
-      "createdAt": "2024-01-26T12:19:48.778Z"
+      "createdAt": "2024-01-26T12:19:48.778Z",
+      "updatedAt": "2024-01-26T12:19:58.835Z"
     }
   }
 ]

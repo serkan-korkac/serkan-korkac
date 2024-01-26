@@ -1,14 +1,12 @@
 ---
 ID: "c81ab59f93af"
 createdAt: "2024-01-26T12:02:02.000Z"
-updatedAt: "2024-01-26T12:20:33.483Z"
+updatedAt: "2024-01-26T12:21:51.573Z"
 status: "publish"
 slug: "README"
 path: ""
 ---
 # Hello, I'm Serkan Korkac - A Jedi Developer 🚀
-
-![Star Wars](./contentrain/static/banner.jpg)
 
 ## About Me
 Greetings! I am Serkan, a passionate Jedi in the realm of computer science and software development. I've been wielding my lightsaber (keyboard) for quite a while now. Currently, I serve as a full-stack developer at Contentrain, fighting against the dark bugs and crafting digital galaxies.

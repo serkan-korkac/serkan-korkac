@@ -1,30 +1,27 @@
 ---
 ID: "c81ab59f93af"
-createdAt: "Fri Jan 26 2024 15:02:02 GMT+0300 (GMT+03:00)"
-updatedAt: "Fri Jan 26 2024 15:02:02 GMT+0300 (GMT+03:00)"
-slug: "README"
+createdAt: "2024-01-26T12:02:02.000Z"
+updatedAt: "2024-01-26T12:17:17.020Z"
 status: "publish"
+slug: "README"
 path: ""
 ---
-# Hello, I'm Serkan Korkac
+# Hello, I'm Serkan Korkac - A Jedi Developer 🚀
+
+![Star Wars](./contenrain/static/banner.png)
 
 ## About Me
-Hello! My name is Serkan, I have a great interest in computer science and software development. And I have been dealing with software development for a long time. I currently work as a full stack developer at Contentrain.
+Greetings! I am Serkan, a passionate Jedi in the realm of computer science and software development. I've been wielding my lightsaber (keyboard) for quite a while now. Currently, I serve as a full-stack developer at Contentrain, fighting against the dark bugs and crafting digital galaxies.
 
-## My Projects
-- [Contentrain](https://contentrain.io)
+## My Projects in a Galaxy Far, Far Away
+- **Contentrain:** Unleashing the power of creativity in a galaxy far, far away! [Visit Contentrain](https://contentrain.io)
 
 ## Languages and Technologies
-- TypeScript
-- JavaScript
-- React
-- HTML, CSS
-- Vue
-- Nodejs
-- ExpressJs
-- Nestjs
-- NuxtJs
-- NextJs
+- Lightsabers: TypeScript and JavaScript
+- Force-enhanced frameworks: React, Vue, Nodejs, ExpressJs, Nestjs, NuxtJs, NextJs
+- HTML and CSS are my ally droids in building the digital universe.
 
 ## Contact
-- [LinkedIn](https://www.linkedin.com/in/serkankorkac/)
+- [LinkedIn](https://www.linkedin.com/in/serkankorkac/) - Connect with me in the Force!
+
+May the code be with you! 🌌✨

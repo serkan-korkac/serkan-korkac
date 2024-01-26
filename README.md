@@ -8,7 +8,7 @@ path: ""
 ---
 # Hello, I'm Serkan Korkac - A Jedi Developer 🚀
 
-![Star Wars](./contenrain/static/banner.png)
+![Star Wars](./contentrain/static/banner.png)
 
 ## About Me
 Greetings! I am Serkan, a passionate Jedi in the realm of computer science and software development. I've been wielding my lightsaber (keyboard) for quite a while now. Currently, I serve as a full-stack developer at Contentrain, fighting against the dark bugs and crafting digital galaxies.

@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hello, I'm Serkan Korkac
 
-<!--
-**serkan-korkac/serkan-korkac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hello! I'm Serkan, I have a keen interest in computer science and software development.
 
-Here are some ideas to get you started:
+## My Projects
+- [Contentrain](https://contentrain.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Technologies
+- TypeScript
+- JavaScript
+- React
+- HTML, CSS
+- Vue
+- Nodejs
+- ExpressJs
+- Nestjs
+- NuxtJs
+- NextJs
+
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/serkankorkac/)
+
+## Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=prs&theme=dark)
+
+## Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)

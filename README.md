@@ -1,11 +1,3 @@
----
-ID: "c81ab59f93af"
-createdAt: "2024-01-26T12:02:02.000Z"
-updatedAt: "2024-01-26T12:21:51.573Z"
-status: "publish"
-slug: "README"
-path: ""
----
 # Hello, I'm Serkan Korkac - A Jedi Developer 🚀
 
 ## About Me
